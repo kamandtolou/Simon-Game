@@ -15,8 +15,11 @@ The sequence grows progressively longer with each successful round, increasing t
 
 
 Features:
+
 Interactive and responsive game interface built using HTML, CSS, and JavaScript.
+
 Engaging sound and visual effects to replicate the classic Simon experience.
+
 Levels get progressively harder with each round.
 
 
