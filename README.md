@@ -24,8 +24,11 @@ Each round adds a new step to the sequence, making it harder to remember.
 The game ends if you click the buttons in the wrong order.
 
 Technologies Used:
+
 HTML: Structure and layout of the web pages.
+
 CSS: Styling and responsiveness for a clean, engaging UI.
+
 JavaScript: Game logic, user interaction, and dynamic effects.
 
 How to Run:
